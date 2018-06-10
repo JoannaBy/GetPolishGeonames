@@ -1,5 +1,3 @@
-# this is a testing dataset
-
 Paris
 Cottbus
 London
