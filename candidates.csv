@@ -1,0 +1,41 @@
+	countryCode	fcl	fcode	geonameId	lat	lng	name	toponymName
+0	FR	P	PPLC	2988507.0	48.85341	2.3488	Paryż	Paris
+1	FR	P	PPL	2988623.0	48.8448	2.3471	Paris 05 Panthéon	Paris 05 Panthéon
+2	FR	P	PPL	2973189.0	48.8637	2.3615	Paris 03 Temple	Paris 03 Temple
+3	FR	P	PPL	2994540.0	48.8646	2.3984	Paris 20 Ménilmontant	Paris 20 Ménilmontant
+4	FR	P	PPL	2997000.0	48.8493	2.33	Paris 06 Luxembourg	Paris 06 Luxembourg
+5	FR	P	PPL	6269531.0	48.8592	2.3417	Paris 01 Louvre	Paris 01 Louvre
+6	FR	P	PPL	2988760.0	48.8565	2.321	Paris 07 Palais-Bourbon	Paris 07 Palais-Bourbon
+7	FR	P	PPL	2986082.0	48.8574	2.3795	Paris 11 Popincourt	Paris 11 Popincourt
+8	FR	P	PPL	2989487.0	48.8718	2.3399	Paris 09 Opéra	Paris 09 Opéra
+9	FR	P	PPL	3030864.0	48.8655	2.3426	Paris 02 Bourse	Paris 02 Bourse
+10	DE	P	PPLA3	2939811.0	51.75769	14.32888	Chociebuż	Cottbus
+11	DE	A	ADM3	2939810.0	51.75753	14.32343	Kreisfreie Stadt Cottbus	Kreisfreie Stadt Cottbus
+12	DE	S	AIRF	3209129.0	51.76667	14.28333	Cottbus	Cottbus
+13	DE	A	ADM4	6547541.0	51.75602	14.31971	Cottbus	Cottbus
+14	DE	S	PS	7282946.0	51.75007	14.28649	Bahnstromumformerwerk Cottbus	Bahnstromumformerwerk Cottbus
+15	DE	P	PPLX	2825791.0	51.75743	14.30384	Ströbitz	Ströbitz
+16	DE	P	PPL	2891142.0	51.72353	14.36315	Kiekebusch	Kiekebusch
+17	DE	P	PPL	2936675.0	51.81947	14.3406	Döbbrick	Döbbrick
+18	DE	P	PPLX	2837959.0	51.7808	14.33606	Schmellwitz	Schmellwitz
+19	US	P	PPL	4382483.0	36.64978	-91.8482	Cottbus	Cottbus
+20	GB	P	PPLC	2643743.0	51.50853	-0.12574	Londyn	London
+21	CA	P	PPL	6058560.0	42.98339	-81.23304	London	London
+22	ZA	P	PPLA2	1006984.0	-33.01529	27.91162	East London	East London
+23	US	P	PPL	4839416.0	41.35565	-72.09952	New London	New London
+24	GB	S	AIRP	2647216.0	51.47115	-0.45649	Port lotniczy Londyn-Heathrow	London Heathrow Airport
+25	GB	S	AIRP	6296599.0	51.50528	0.05528	Port lotniczy Londyn-City	London City Airport
+26	US	P	PPL	4839141.0	41.35427	-71.96646	Mystic	Mystic
+27	US	P	PPL	4839843.0	41.52426	-72.07591	Norwich	Norwich
+28	US	P	PPL	4835461.0	41.3501	-72.07841	Groton	Groton
+29	US	A	ADM2	4839420.0	41.46678	-72.1065	Hrabstwo New London	New London County
+30	AT	P	PPLC	2761369.0	48.20849	16.37208	Wiedeń	Vienna
+31	AT	A	ADM1	2761367.0	48.2082	16.37169	Wiedeń	Wien
+32	AT	A	ADM2	2761333.0	48.2066	16.37341	Wien Stadt	Wien Stadt
+33	AT	L	PRK	6697258.0	48.20809	16.36157	Volksgarten	Volksgarten
+34	US	P	PPL	4791160.0	38.90122	-77.26526	Vienna	Vienna
+35	AT	L	PRK	3322730.0	48.20458	16.38009	Stadtpark	Stadtpark
+36	AT	L	PRK	3322733.0	48.22583	16.37778	Augarten	Augarten
+37	AT	L	PRK	9409203.0	48.18248	16.40184	St. Marx Cemetery	St. Marx Cemetery
+38	AT	L	AREA	10244811.0	48.21115	16.36786	Am Hof	Am Hof
+39	AT	S	AIRP	2761335.0	48.1221	16.55751	Port lotniczy Wiedeń-Schwechat	Vienna International Airport
